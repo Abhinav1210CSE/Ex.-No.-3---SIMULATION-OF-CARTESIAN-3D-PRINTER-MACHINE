@@ -59,8 +59,8 @@
 ![Screenshot 2025-05-02 161617](https://github.com/user-attachments/assets/0c8dc8b1-3aee-4c49-a0f1-76cbc7bf1a8e)
 
 
-### Name: POOJA.P
-### Register Number: 212224100041
+### Name: Abhinav CS
+### Register Number: 212224040005
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
